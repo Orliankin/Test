@@ -1,3 +1,3 @@
 # Test
-Just practics on GitHub.
+Just do some practics on GitHub.
 Good luck to all ;)
